@@ -1,6 +1,6 @@
 # ChatApp
 ### Stack:
-- UI Libray: [Tamagui](https://tamagui.dev/);
+- UI Libray: [Radix](https://www.radix-ui.com/);
 - Avatar Libray: [DiceBear](https://dicebear.com/);
 - CSS Framework: [Tailwind CSS](https://tailwindcss.com/);
 - Frontend: [Next.js](https://nextjs.org/);
